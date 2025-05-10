@@ -1,0 +1,27 @@
+# Ignorera RStudio specifika filer
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Ignorera Python-specifika filer
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorera PyCharm-specifika filer
+.idea/
+
+# Ignorera VS Code-specifika filer
+.vscode/
+
+# Ignorera loggfiler och cache
+*.log
+*.tmp
+
+# Ignorera operativsystem-specifika filer (Mac)
+.DS_Store
+
+# Ignorera operativsystem-specifika filer (Windows)
+Thumbs.db
+
